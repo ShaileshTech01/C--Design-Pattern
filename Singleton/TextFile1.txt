@@ -1,0 +1,6 @@
+﻿Frequency of Use : 4 out of 5
+Mostly used in every project.
+
+Defination: Ensure a class has only one instance and provide a global point of access to it.
+
+
